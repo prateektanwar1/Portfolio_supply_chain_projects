@@ -6,7 +6,7 @@ This dashboard visualises supplier performance using key procurement KPIs such a
 - SLA Compliance
 - Rejection Rate
 - Ordered vs Delivered Quantities
-- Risk Heatmap (based on SLA & Lead Time)
+
 
 ### 📁 Files Included:
 - `Supplier_Performance_Dashboard.pbix`: Interactive Power BI file
@@ -16,10 +16,10 @@ This dashboard visualises supplier performance using key procurement KPIs such a
 
 ### 📌 Key Features:
 - Dynamic visuals for OTIF% by supplier
-- KPI card and donut chart for SLA status
+- Donut chart for SLA status
 - Clustered bar for delivery performance
 - Rejection rate matrix
-- Risk classification using scatter plot
+
 
 ---
 🔗 Return to [Main Portfolio](../)
