@@ -44,7 +44,7 @@ Welcome! I'm **Prateek Tanwar**, a procurement and material planning professiona
 ## 📬 Connect with Me
 - 📧 Email: prateek.tanwar2@outlook.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/prateek-tanwar-19711517b/)  
-- 📍 Based in Kent, UK | Open to relocation or hybrid roles
+- 📍 Based in Gillingham, Kent, UK (ME7 5TJ) | Open to relocation or hybrid roles
 
 ---
 
