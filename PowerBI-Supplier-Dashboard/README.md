@@ -12,7 +12,7 @@ This dashboard visualises supplier performance using key procurement KPIs such a
 - `Supplier_Performance_Dashboard.pbix`: Interactive Power BI file
 - `SupplierData.xlsx`: Dummy dataset used for the analysis
 - `Dashboard_Screenshot.png`: Preview of the dashboard visuals 
-!(https://github.com/prateektanwar1/Portfolio_supply_chain_projects/blob/main/Supplier_performance_dashboard.png)
+!(https://github.com/prateektanwar1/Portfolio_supply_chain_projects/blob/main/Supplier_performance_dashboard.png).
 
 ### 📌 Key Features:
 - Dynamic visuals for OTIF% by supplier
