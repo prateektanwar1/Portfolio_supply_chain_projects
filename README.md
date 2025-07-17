@@ -5,7 +5,8 @@ Welcome! I'm **Prateek Tanwar**, a procurement and material planning professiona
 ---
 
 ## 📄 Download Portfolio (PDF)
-➡️ [Click here to download my full portfolio (PDF)](https://github.com/prateektanwar1/Portfolio_supply_chain_projects/blob/main/Portfolio_Prateek_Tanwar.pdf)
+➡️ [Click here to download my full portfolio (PDF)](https://www.canva.com/design/DAGphAz-Gx0/i-DP7-aComgTgvLr7RG3Jg/view?utm_content=DAGphAz-Gx0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h001d99a27e).
+
 
 ---
 
