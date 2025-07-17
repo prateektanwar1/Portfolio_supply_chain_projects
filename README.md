@@ -28,7 +28,7 @@ Welcome! I'm **Prateek Tanwar**, a procurement and material planning professiona
 ### 🧠 Reshoring – Digital Twin Risk Mitigation
 > 25% lead time reduction | PESTEL + SWOT analysis | 15% faster supplier onboarding
 
-![Digital Twin Slide](images/reshoring_slide.png)
+![Digital Twin Slide](https://github.com/prateektanwar1/Portfolio_supply_chain_projects/blob/main/Reshoring-Digital%20Twin%20Initiative.png)
 
 ---
 
