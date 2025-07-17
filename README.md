@@ -1,6 +1,6 @@
 # 📦 Prateek Tanwar – Procurement & Material Planning Portfolio
 
-Welcome! I'm **Prateek Tanwar**, a procurement and material planning professional with 3 years of experience in ERP-driven sourcing, supply chain optimisation, and sustainable supplier development. This portfolio showcases selected projects that delivered measurable impact across cost, quality, and risk domains.
+Welcome! I'm **Prateek Tanwar**, a procurement and material planning professional with more than 2.5 years of experience in ERP-driven sourcing, supply chain optimisation and sustainable supplier development. This portfolio showcases selected projects that delivered measurable impact across cost, quality and risk domains.
 
 ---
 
