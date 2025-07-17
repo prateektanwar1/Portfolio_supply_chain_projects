@@ -1,2 +1,51 @@
-# Portfolio_supply_chain_projects
-Procurement &amp; Supply Chain Portfolio
+# 📦 Prateek Tanwar – Procurement & Material Planning Portfolio
+
+Welcome! I'm **Prateek Tanwar**, a procurement and material planning professional with 3 years of experience in ERP-driven sourcing, supply chain optimisation, and sustainable supplier development. This portfolio showcases selected projects that delivered measurable impact across cost, quality, and risk domains.
+
+---
+
+## 📄 Download Portfolio (PDF)
+➡️ [Click here to download my full portfolio (PDF)](https://github.com/yourusername/yourrepo/raw/main/Portfolio_Prateek_Tanwar.pdf)
+
+---
+
+## 🔍 Project Highlights
+
+### 🔧 Liner Cylinder Cost Optimisation
+> £80K+ cost savings | Multi-tier sourcing strategy | 70% reduced supplier dependency
+
+![Liner Cylinder Slide](images/liner_slide.png)
+
+---
+
+### 🛠️ Knuckle Housing Warranty Reduction
+> 40% fewer warranty claims | Metallurgical root cause analysis | Sustainable material upgrade
+
+![Knuckle Housing Slide](images/knuckle_slide.png)
+
+---
+
+### 🧠 Reshoring – Digital Twin Risk Mitigation
+> 25% lead time reduction | PESTEL + SWOT analysis | 15% faster supplier onboarding
+
+![Digital Twin Slide](images/reshoring_slide.png)
+
+---
+
+## 🛠 Tools & Methodologies
+- **ERP**: Oracle EBS
+- **BI Tools**: Power BI, Excel
+- **Analysis**: SWOT, PESTEL, Root Cause Analysis
+- **Processes**: VAVE, APQP, PPAP, ISO 9001
+- **Sustainability**: Lightweighting, Resilience Strategy, CO₂ Reduction
+
+---
+
+## 📬 Connect with Me
+- 📧 Email: prateek.tanwar2@outlook.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/prateek-tanwar-19711517b/)  
+- 📍 Based in Kent, UK | Open to relocation or hybrid roles
+
+---
+
+> 🔁 *This portfolio is based on anonymised and independently recreated insights from my professional experience. No confidential data is shared.*
