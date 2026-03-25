@@ -1,4 +1,4 @@
-# 📦 Prateek Tanwar – Strategic Sourcing & Supplier Development Portfolio
+# 📦 Prateek Tanwar – Procurement & Supply Chain Portfolio
 
 Welcome! I'm **Prateek Tanwar**, a procurement and material planning professional with more than 3.5 years of experience in ERP-driven sourcing, supply chain optimisation and sustainable supplier development. This portfolio showcases selected projects that delivered measurable impact across cost, quality and risk domains.
 
@@ -48,9 +48,10 @@ Welcome! I'm **Prateek Tanwar**, a procurement and material planning professiona
 ---
 
 ## 📬 Connect with Me
-- 📧 Email: prateek.tanwar2@outlook.com  
+- 📧 Email: prateektanwar04@outlook.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/prateek-tanwar-19711517b/)  
-- 📍 Open to relocation or hybrid roles
+- 📍 Open to relocation
+- 💼 Contact No: 07918585637
 
 ---
 
