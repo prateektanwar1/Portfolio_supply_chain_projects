@@ -20,7 +20,7 @@ Welcome! I'm **Prateek Tanwar**, a procurement and material planning professiona
 ### 🔧 Liner Cylinder Cost Optimisation
 > £8K+ cost savings | Multi-tier sourcing strategy | 70% reduced supplier dependency
 
-![Liner Cylinder Slide](https://github.com/prateektanwar1/Portfolio_supply_chain_projects/blob/main/Liner%20cylinder%20cost%20optimisation.png).
+![Liner Cylinder Slide](https://github.com/prateektanwar1/Portfolio_supply_chain_projects/blob/main/Cylinder.png).
 
 ---
 
