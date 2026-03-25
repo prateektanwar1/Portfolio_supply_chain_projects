@@ -27,7 +27,7 @@ Welcome! I'm **Prateek Tanwar**, a procurement and material planning professiona
 ### 🛠️ Knuckle Housing Warranty Reduction
 > 40% fewer warranty claims | Metallurgical root cause analysis | Sustainable material upgrade
 
-![Knuckle Housing Slide](https://github.com/prateektanwar1/Portfolio_supply_chain_projects/blob/main/Knuckle%20housing%20warranty%20reduction.png).
+![Knuckle Housing Slide](https://github.com/prateektanwar1/Portfolio_supply_chain_projects/blob/main/Knuckle%20Housing.png).
 
 ---
 
