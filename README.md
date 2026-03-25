@@ -18,7 +18,7 @@ Welcome! I'm **Prateek Tanwar**, a procurement and material planning professiona
 > 📂 [View Power BI Dashboard Project Folder](https://github.com/prateektanwar1/Portfolio_supply_chain_projects/tree/main/PowerBI-Supplier-Dashboard)
 ![Dashboard View](https://github.com/prateektanwar1/Portfolio_supply_chain_projects/blob/main/Supplier_performance_dashboard.png).
 ### 🔧 Liner Cylinder Cost Optimisation
-> £80K+ cost savings | Multi-tier sourcing strategy | 70% reduced supplier dependency
+> £8K+ cost savings | Multi-tier sourcing strategy | 70% reduced supplier dependency
 
 ![Liner Cylinder Slide](https://github.com/prateektanwar1/Portfolio_supply_chain_projects/blob/main/Liner%20cylinder%20cost%20optimisation.png).
 
