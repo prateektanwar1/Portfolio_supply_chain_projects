@@ -2,7 +2,7 @@
 
 Welcome! I'm Prateek Tanwar, a procurement and supply chain professional with 2.5+ years of experience in ERP-driven sourcing, material planning, and supplier performance improvement.
 
-I hold CIPS Level 4 and a Six Sigma Green Belt, bringing a structured, data-driven approach to cost optimisation, process improvement, and risk reduction within manufacturing environments.
+I hold a Six Sigma Green Belt and currently pursuing CIPS level 4 Diploma in Procurement & Supply Chain, bringing a structured, data-driven approach to cost optimisation, process improvement, and risk reduction within manufacturing environments.
 
 This portfolio showcases selected projects delivering measurable impact across cost, quality, supplier capability, and warranty reduction—demonstrating how procurement decisions directly influence long-term business outcomes.
 
