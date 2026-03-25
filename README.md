@@ -43,10 +43,10 @@ This portfolio showcases selected projects delivering measurable impact across c
 ---
 
 ## 🛠 Tools & Methodologies
-- **ERP**: Oracle EBS
-- **BI Tools**: Power BI, Excel
-- **Analysis**: SWOT, PESTEL, Root Cause Analysis
-- **Processes**: VAVE, APQP, PPAP, ISO 9001
+- **ERP**: Oracle EBS, SAP
+- **BI Tools**: Power BI, MS-Excel, AI tools
+- **Analysis**: SWOT, PESTEL, Root Cause Analysis, Porter's Five Forces, many more
+- **Processes**: VAVE, APQP, PPAP, ISO 9001, Casting & Forging Specialist
 - **Sustainability**: Lightweighting, Resilience Strategy, CO₂ Reduction
 
 ---
